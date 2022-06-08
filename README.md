@@ -46,4 +46,4 @@ For the border elements of the input image (e.g. pixel (0,0) ), there are two wa
 
 ---
 
-## For more information about how blurs & filters work, I suggest you check out [this video](https://www.youtube.com/watch?v=C_zFhWdM4ic&feature=youtu.be&t=71)
+## For more information about how blurs & filters work, I suggest you check out [this video](https://www.youtube.com/watch?v=C_zFhWdM4ic)
