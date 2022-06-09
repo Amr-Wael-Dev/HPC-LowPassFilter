@@ -1,0 +1,6 @@
+D:\college\3\2\High Performance Computing\Project\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+D:\college\3\2\High Performance Computing\Project\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.SuggestedBindingRedirects.cache
+D:\college\3\2\High Performance Computing\Project\HPC_ProjectTemplate - Parallel\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+D:\college\3\2\High Performance Computing\Project\HPC_ProjectTemplate - Parallel\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.SuggestedBindingRedirects.cache
+D:\college\3\2\High Performance Computing\Project\Final Version\HPC_ProjectTemplate - Parallel\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+D:\college\3\2\High Performance Computing\Project\Final Version\HPC_ProjectTemplate - Parallel\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.SuggestedBindingRedirects.cache

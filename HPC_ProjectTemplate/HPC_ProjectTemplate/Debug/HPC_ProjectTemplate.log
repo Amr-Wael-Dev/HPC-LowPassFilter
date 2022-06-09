@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\college\3\2\High Performance Computing\Project\Final Version\HPC_ProjectTemplate - Parallel\HPC_ProjectTemplate\Source.cpp(159,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\college\3\2\High Performance Computing\Project\Final Version\HPC_ProjectTemplate - Parallel\HPC_ProjectTemplate\Source.cpp(205,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\college\3\2\High Performance Computing\Project\Final Version\HPC_ProjectTemplate - Parallel\HPC_ProjectTemplate\Source.cpp(308,59): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> D:\college\3\2\High Performance Computing\Project\Final Version\HPC_ProjectTemplate - Parallel\Debug\HPC_ProjectTemplate.exe
